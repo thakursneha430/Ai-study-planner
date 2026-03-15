@@ -22,14 +22,14 @@ Perfect for students who want to **manage time efficiently and study smarter.**
 
 ## 📂 Project Structure
 AI-Study-Planner
-│
-├── app.py
-├── scheduler.py
-├── subjects.json
-├── requirements.txt
-│
-├── templates
-│   └── index.html
-│
-└── static
+│<br>
+├── app.py<br>
+├── scheduler.py<br>
+├── subjects.json<br>
+├── requirements.txt<br>
+│<br>
+├── templates<br>
+│   └── index.html<br>
+│<br>
+└── static<br>
     └── style.css
