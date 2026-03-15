@@ -1,2 +1,35 @@
-# Ai-study-planner
-An AI-powered Study Planner that helps students organize their learning efficiently. The system intelligently schedules study sessions, manages subjects, and optimizes daily study plans based on priorities and deadlines.  ✨ Designed to improve productivity, focus, and time management for students.
+## 📚 AI Study Planner 🚀
+Smart study schedule generator built with **Python, Flask, and AI logic** to help students organize their learning efficiently.
+
+## 🧠 AI Study Planner
+An intelligent web application that automatically generates a **personalized study schedule** based on subjects and study time.<br>
+Perfect for students who want to **manage time efficiently and study smarter.**
+
+## ⚡ Features
+✨ Automatic study schedule generation<br>
+📊 Subject-based planning  <br>
+🧠 AI-inspired scheduling logic<br>
+🌐 Simple web interface  <br>
+⚡ Lightweight and fast  <br>
+📁 JSON-based subject management  
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Web_App-black?logo=flask)
+![HTML](https://img.shields.io/badge/Frontend-HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
+![JSON](https://img.shields.io/badge/Data-JSON-green)
+
+## 📂 Project Structure
+AI-Study-Planner
+│
+├── app.py
+├── scheduler.py
+├── subjects.json
+├── requirements.txt
+│
+├── templates
+│   └── index.html
+│
+└── static
+    └── style.css
