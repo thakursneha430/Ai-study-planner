@@ -21,7 +21,7 @@ Perfect for students who want to **manage time efficiently and study smarter.**
 ![JSON](https://img.shields.io/badge/Data-JSON-green)
 
 ## 📂 Project Structure
-AI-Study-Planner
+AI-Study-Planner<br>
 │<br>
 ├── app.py<br>
 ├── scheduler.py<br>
@@ -32,4 +32,4 @@ AI-Study-Planner
 │   └── index.html<br>
 │<br>
 └── static<br>
-    └── style.css
+    └── style.css<br>
