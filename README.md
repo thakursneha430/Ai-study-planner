@@ -1,6 +1,13 @@
 ## 📚 AI Study Planner 🚀
 Smart study schedule generator built with **Python, Flask, and AI logic** to help students organize their learning efficiently.
 
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Web_App-black?logo=flask)
+![HTML](https://img.shields.io/badge/Frontend-HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
+![JSON](https://img.shields.io/badge/Data-JSON-green)
+
 ## 🧠 AI Study Planner
 An intelligent web application that automatically generates a **personalized study schedule** based on subjects and study time.<br>
 Perfect for students who want to **manage time efficiently and study smarter.**
@@ -15,13 +22,6 @@ Perfect for students who want to **manage time efficiently and study smarter.**
 🌐 Simple web interface  <br>
 ⚡ Lightweight and fast  <br>
 📁 JSON-based subject management  
-
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-Web_App-black?logo=flask)
-![HTML](https://img.shields.io/badge/Frontend-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css3)
-![JSON](https://img.shields.io/badge/Data-JSON-green)
 
 ## 📂 Project Structure
 AI-Study-Planner<br>
