@@ -1,0 +1,17 @@
+[
+    {
+        "name": "python",
+        "priority": 2,
+        "deadline": "2026-03-23"
+    },
+    {
+        "name": "operating system",
+        "priority": 3,
+        "deadline": "2026-03-22"
+    },
+    {
+        "name": "data structure",
+        "priority": 1,
+        "deadline": "2026-03-30"
+    }
+]
